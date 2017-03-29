@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+
+	<!-- Image 1--> 
+	<title>Our Future Generations</title>
+	<description><![CDATA[Created graphics for an article about the "basic instructions" required by all life: genes.
+	]]></description>
+	<largeImage>portfolio/large/DSCN0051.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0051.jpg</thumbImage>
+	
+	<!-- Image 2--> 
+	<title>Everything I know I've learned by Playing Basketball</title>
+	<description><![CDATA[Article design I did about the life lessons basketball legend Paul Trani learned on the court.
+	]]></description>
+	<largeImage>portfolio/large/DSCN0076.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0076.jpg</thumbImage>
+
+	<!-- Image 3--> 
+	<title>Career Outlook</title>
+	<largeImage>portfolio/large/DSCN0079.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0079.jpg</thumbImage>
+	<description><![CDATA[Book cover design I did for a publication about employment projections for 2010.
+	]]></description>
+	
+	<!-- Image 4--> 
+	<title>Cafe Buena</title>
+	<largeImage>portfolio/large/DSCN0081.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0081.jpg</thumbImage>
+	<description><![CDATA[Friendly logo and branding design I did for a local coffee shop in Denver, CO.
+	]]></description>
+	
+	<!-- Image 5--> 
+	<title>Children of the Revolution</title>
+	<description><![CDATA[Article illustration I did for a 3 part series about the impact of the American Revolution.
+	]]></description>
+	<largeImage>portfolio/large/DSCN0083.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0083.jpg</thumbImage>
+	
+	<!-- Image 6--> 
+	<title>Xtapa Apparel</title>
+	<description><![CDATA[Advertising design I did for Xtapa Apparel about their new line of lightweight, wrinkle-free clothing.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/DSCN0084.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0084.jpg</thumbImage>
+	
+	<!-- Image 7--> 
+	<title>Two-Wheel Revolution</title>
+	<description><![CDATA[Website design promoting the use of bicycles for environmentally friendly transportation and recreation.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/DSCN0096.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0096.jpg</thumbImage>
+	
+	<!-- Image 8--> 
+	<title>History</title>
+	<description><![CDATA[Did the graphics for a series of online articles that talk about how history gets written and how it impacts the future.
+	]]></description>
+	<largeImage>portfolio/large/DSCN0098.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0098.jpg</thumbImage>
+	
+	<!-- Image 9--> 
+	<title>Dawn in Durres</title>
+	<description><![CDATA[Created graphics for an article about the "new age" of Durres, the leading commercial and communications center of Albania.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/DSCN0099.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/DSCN0099.jpg</thumbImage>
+	
+	<!-- Image 10--> 
+	<title>Give Peace a Chance</title>
+	<description><![CDATA[Photograph taken of what is called Lennon Wall in Prague.  When Prague was under Soviet control this is where people would come and write John Lennon-inspired sayings as an outlet.<br />  <a href="http://en.wikipedia.org/wiki/Lennon_Wall" target="_blank">More></a>
+	]]></description>
+	<largeImage>portfolio/large/clown.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/clown.jpg</thumbImage>
+	
+	<!-- Image 11--> 
+	<title>Street Trends</title>
+	<description><![CDATA[Illustration and graphics for this online series about how street trends influence the mass market and through a handful of individuals a global trend can emerge. <br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/profile.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/profile.jpg</thumbImage>
+	
+<!-- Image 12--> 
+	<title>Holidays in Prague</title>
+	<description><![CDATA[Design for a short story about holidays abroad.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/profile2.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/profile2.jpg</thumbImage>
+
+<!-- Image 13--> 
+	<title>Holidays in Prague</title>
+	<description><![CDATA[Design for a short story about holidays abroad.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/tommyaward.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/tommyaward.jpg</thumbImage>
+		
+<!-- Image 14--> 
+	<title>Holidays in Prague</title>
+	<description><![CDATA[Design for a short story about holidays abroad.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/unicycle.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/unicycle.jpg</thumbImage>
+	
+<!-- Image 15--> 
+	<title>Holidays in Prague</title>
+	<description><![CDATA[Design for a short story about holidays abroad.<br />  <a href="http://www.designupdate.com" target="_blank">View website</a>
+	]]></description>
+	<largeImage>portfolio/large/wedding.jpg</largeImage>
+	<thumbImage>portfolio/thumbs/wedding.jpg</thumbImage>
+</portfolio>
+
