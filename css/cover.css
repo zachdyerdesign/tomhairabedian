@@ -28,6 +28,9 @@ html,
 body {
   height: 100%;
   background-color: #333;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../images/Bkgd8.jpg);
 }
 body {
   color: #fff;
