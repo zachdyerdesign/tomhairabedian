@@ -1,3 +1,7 @@
+---
+background-image: diving-board2.jpg
+---
+
 /*
  * Globals
  */
@@ -30,7 +34,7 @@ body {
   background-color: #333;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../images/Bkgd8.jpg);
+  background-image: url(../images/{{page.background-image}});
 }
 body {
   color: #fff;
